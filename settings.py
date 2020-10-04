@@ -1,6 +1,6 @@
 ﻿
 
-bot_token = '' # токен бота
+bot_token = '1161855602:AAG0WmV3_-QjLBymHQ0iu3YfLY8qwYtTj68' # токен бота
 LOGIN_BOT = '@snus_dealer_bot'  # логин бота
 CHANNEL_ID = 12345689   # id канала куда будет отсылаться информация, ид без -100 в начале (например: 124873248)
 
@@ -12,8 +12,8 @@ QIWI_NUMBER = '+999999999'    # номер киви
 QIWI_TOKEN = 'token'            # токен киви
 
 
-PERCENT_SPAM = 0.9  # Процент спамеру (0.5 = 50%) #не работает в версии без спамеров
-PERCENT_OWN = 0.1   # Процент вам (0.5 = 50%)
+PERCENT_SPAM = 0  # Процент спамеру (0.5 = 50%) #не работает в версии без спамеров
+PERCENT_OWN = 1   # Процент вам (0.5 = 50%)
 
 main_bd = '/home/TiredCat/Admin bot/main.db'
 
